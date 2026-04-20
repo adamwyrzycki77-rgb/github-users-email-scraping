@@ -1,0 +1,775 @@
+name,email,github_url
+Hadley Wickham,hadley@posit.co,https://github.com/hadley
+Steve Klabnik,steve@steveklabnik.com,https://github.com/steveklabnik
+Dave Rupert,rupato@gmail.com,https://github.com/davatron5000
+Adam Stacoviak,adam@changelog.com,https://github.com/adamstac
+Mohammad Azam,azamsharp@gmail.com,https://github.com/azamsharp
+Valentin Shergin,valentin@shergin.com,https://github.com/shergin
+"Timothee ""TTimo"" Besset",ttimo@ttimo.net,https://github.com/TTimo
+Jesse Newland,jesse@jnewland.com,https://github.com/jnewland
+Jason Meridth,jmeridth@gmail.com,https://github.com/jmeridth
+Terence Lee,hone02@gmail.com,https://github.com/hone
+sivel / Matt Martz,matt@sivel.net,https://github.com/sivel
+Michael Yuan,michael@secondstate.io,https://github.com/juntao
+Benjamin Woosley,Ben.Woosley@gmail.com,https://github.com/Empact
+Jonathan George,jonathan@jdg.net,https://github.com/jdg
+Darius Bacon,withal@gmail.com,https://github.com/darius
+Austin Seipp,aseipp@pobox.com,https://github.com/thoughtpolice
+Devin Alexander Torres,d@devinus.io,https://github.com/devinus
+Jeff Haynie,jhaynie@gmail.com,https://github.com/jhaynie
+Charles Lowell,cowboyd@frontside.com,https://github.com/cowboyd
+Orion Henry,orion@heroku.com,https://github.com/orionz
+Lennart Koopmann,lennart@0x58ed.com,https://github.com/lennartkoopmann
+Ian Clarke,sanity@users.noreply.github.com,https://github.com/sanity
+Philip (flip) Kromer,flip@tooksome.com,https://github.com/mrflip
+Dennis Baldwin,dennisbaldwin@gmail.com,https://github.com/dbaldwin
+Jonathan Ellis,jbellis@gmail.com,https://github.com/jbellis
+James Wickett,wickett@gmail.com,https://github.com/wickett
+Ryan Riley,ryanriley@live.com,https://github.com/panesofglass
+Mike Sarahan,msarahan@gmail.com,https://github.com/msarahan
+Andy R. Terrel,andy.terrel@gmail.com,https://github.com/aterrel
+Mark DiMarco,mark.dimarco@gmail.com,https://github.com/markmarkoh
+Marshall Culpepper,mcu@hey.com,https://github.com/marshall
+Tom Croucher,dugsong@monkey.org,https://github.com/sh1mmer
+Dan Loewenherz,dan@lionheartsw.com,https://github.com/dlo
+Tod Beardsley,todb@hugesuccess.org,https://github.com/todb
+Sam Smoot,ssmoot@gmail.com,https://github.com/sam
+Mike Donaghy,mike@mikedonaghy.org,https://github.com/leachim6
+Ryan Phillips,rphillips@redhat.com,https://github.com/rphillips
+Jason Smith,jason.h.smith@gmail.com,https://github.com/jhs
+Michael Wales,webmaster@michaelwales.com,https://github.com/walesmd
+Christopher Schmitt,schmitt@christopher.org,https://github.com/teleject
+Grant Hutchins,github@nertzy.com,https://github.com/nertzy
+Michael Kleehammer,michael@kleehammer.com,https://github.com/mkleehammer
+Larry Ewing,lewing@microsoft.com,https://github.com/lewing
+Allen Rohner,arohner@Allens-MacBook-Pro.local,https://github.com/arohner
+Evan Carroll,me@evancarroll.com,https://github.com/EvanCarroll
+Ryan Irelan,ryan@irelan.net,https://github.com/ryanirelan
+Carl Mercier,carl@carlmercier.com,https://github.com/cmer
+Damon Clinkscales,damon@podlabs.com,https://github.com/damon
+Rafael Torres Coelho Soares (aka Tuelho),rafaeltuelho@users.noreply.github.com,https://github.com/rafaeltuelho
+Josh Knowles,joshknowles@gmail.com,https://github.com/joshknowles
+Mike Pennington,mpenning@users.noreply.github.com,https://github.com/mpenning
+Eugene Lazutkin,eugene@lazutkin.com,https://github.com/uhop
+Brett Hoerner,bretthoerner@gmail.com,https://github.com/bretthoerner
+Anton Astashov,anton.astashov@gmail.com,https://github.com/astashov
+William Morgan,support@begin.com,https://github.com/wmorgan
+Jonathan Dance (JD),jd@wuputah.com,https://github.com/wuputah
+Scott Bellware,pawel.pacana@gmail.com,https://github.com/sbellware
+Mark Silverberg,mark@marksilver.net,https://github.com/marks
+Jerry Chen,jerry@apache.org,https://github.com/jcsalterego
+katy lavallee,katylava@gmail.com,https://github.com/katylava
+Phred Lane,fearphage+github@gmail.com,https://github.com/fearphage
+Sean Chambers,schambers80@gmail.com,https://github.com/schambers
+Patrick R. Michaud,pmichaud@pobox.com,https://github.com/pmichaud
+David Hayes,drhayes@gmail.com,https://github.com/drhayes
+William Cotton,williamcotton@gmail.com,https://github.com/williamcotton
+Matt Hinze,mhinze@gmail.com,https://github.com/mhinze
+Rizwan Reza,rizwan.reza@broadcom.com,https://github.com/rizwanreza
+Robert Speicher,rspeicher@gmail.com,https://github.com/rspeicher
+Brit Gardner,brit@britg.com,https://github.com/britg
+Dan Trevino,dantrevino@gmail.com,https://github.com/dantrevino
+Franco Lazzarino,flazzarino@gmail.com,https://github.com/flazz
+Nickolas Means,nmeans@gmail.com,https://github.com/nmeans
+Logan Lindquist Land,logan@llbbl.com,https://github.com/llbbl
+Nolan Darilek,nolan@thewordnerd.info,https://github.com/ndarilek
+David Potsiadlo,davidpots@gmail.com,https://github.com/davidpots
+Dhruv Bansal,shrub.vandal@gmail.com,https://github.com/dhruvbansal
+Anand Sharma,anand.sharma@gmail.com,https://github.com/indrayam
+Parnell Springmeyer,parnell@digitalmentat.com,https://github.com/ixmatus
+Tom Brown,herestomwiththeweather@gmail.com,https://github.com/herestomwiththeweather
+Jesse Cravens,jesse.cravens@gmail.com,https://github.com/jessecravens
+FiveRuns Development Team,dev@fiveruns.com,https://github.com/fiveruns
+John Hume,duelin.markers@gmail.com,https://github.com/duelinmarkers
+Mike Vincent,mike@vincent.ws,https://github.com/agile
+Mark McSpadden,markmcspadden@gmail.com,https://github.com/markmcspadden
+Bob Potter,bobby.potter@gmail.com,https://github.com/bpot
+Brent Hargrave,brent@brent.is,https://github.com/brenthargrave
+Jeremy Kelley,jeremy@33ad.org,https://github.com/nod
+Nick Zadrozny,nz@omc.io,https://github.com/nz
+Peter Keane,pjkeane@gmail.com,https://github.com/pkeane
+Barrett Clark,barrett@websitesbybarrett.com,https://github.com/barrettclark
+Stefhen Hovland,stefhen.hovland@gmail.com,https://github.com/res0nat0r
+Jonathan Lonowski,coiscir@users.noreply.github.com,https://github.com/coiscir
+Matthew Hadley,matthew.hadley@gmail.com,https://github.com/matthewhadley
+Justin Martin,lupusdei108@gmail.com,https://github.com/LupusDei
+Wes Gamble,wesgamble@gmail.com,https://github.com/weyus
+Mando Escamilla,mando@mando.org,https://github.com/mando
+Eduard Bondarenko,1044+edbond@users.noreply.github.com,https://github.com/edbond
+Bert Grantges,bert@grantges.co,https://github.com/grantges
+Chris Burke,deizel@gmail.com,https://github.com/deizel
+Geoffrey Dagley,gdagley@gmail.com,https://github.com/gdagley
+Nathan Ladd,nathanladd@gmail.com,https://github.com/ntl
+Henry Popp,hello@hpopp.dev,https://github.com/hpopp
+Joshaven Potter,joshaven.potter@cambiumnetworks.com,https://github.com/joshaven
+Mike Sassak,msassak@gmail.com,https://github.com/msassak
+Jake Bathman,jake.bathman@gmail.com,https://github.com/jakebathman
+Chad W Pry,chad.pry@gmail.com,https://github.com/chadwpry
+Dallas Pool,codeninja@gmail.com,https://github.com/codeninja
+chrismo,chrismo@clabs.org,https://github.com/chrismo
+Anthony Lewis,me@anthonylewis.com,https://github.com/anthonylewis
+Josh Schairbaum,josh@gwawrestling.com,https://github.com/jschairb
+Hayes Davis,hayes@appozite.com,https://github.com/hayesdavis
+Clint Moore,cmoore@ravenpack.com,https://github.com/cmoore
+Marshall Beddoe,unmarshal@gmail.com,https://github.com/unmarshal
+Rafi Dudekula,rafi@agilesense.com,https://github.com/rafidude
+mwalker,matt.r.walker@gmail.com,https://github.com/mrwalker
+Ryan Heneise,ryan@boosterstage.net,https://github.com/ryenski
+Jeff Keen,jeff@keen.me,https://github.com/jkeen
+Chris Parker,mrcsparker@gmail.com,https://github.com/mrcsparker
+Matt McCray,matthew.mccray@gmail.com,https://github.com/mattmccray
+Stuart Montgomery,smontgomery@apple.com,https://github.com/stmontgomery
+Chris Cowan,chris.o.cowan@gmail.com,https://github.com/ceez
+Eric Steen,rubycoder1@gmail.com,https://github.com/upstarter
+Ludo van den Boom,me@ludo.is,https://github.com/ludo
+David Ellis,david@conquerthelawn.com,https://github.com/davidkellis
+Preston Parris,prestonparris@gmail.com,https://github.com/prestonparris
+Ian Warshak,iwarshak@stripey.net,https://github.com/iwarshak
+Aaron Farnham,aaron@tinyrobot.org,https://github.com/afarnham
+Graham McIntire,3772+gmcintire@users.noreply.github.com,https://github.com/gmcintire
+Joel Watts,joel@joelwatts.com,https://github.com/jpwatts
+Jim Freeze,jimfreeze@gmail.com,https://github.com/jfreeze
+Jacob Mattingley,dev@jaboc.net,https://github.com/jem
+Jonathan Spies,jonathan.spies@gmail.com,https://github.com/jspies
+Aris,arisbartee@gmail.com,https://github.com/arisbartee
+Ashley Penney,ashley@releasehub.com,https://github.com/apenney
+Timothy Kim,timothykim@fastmail.fm,https://github.com/timothykim
+Handcrafted,hello@gethandcrafted.com,https://github.com/handcrafted
+Chris Hunter,chunter@wondertwinpowers.net,https://github.com/jugglebird
+Jesse Lovelace,jesse@keyingredient.com,https://github.com/mentat
+Emanuel Ferm,emanuel@eferm.com,https://github.com/eferm
+David O'Hara,david@davidohara.net,https://github.com/davidmohara
+Shad Reynolds,shad.reynolds@gmail.com,https://github.com/shad
+David Ayers,davidaayers@gmail.com,https://github.com/davidaayers
+Joshua Griffith,contact@joshuagriffith.com,https://github.com/hadronzoo
+Tim Booher,github@theboohers.org,https://github.com/tbbooher
+Justin Powell,jpowellcs@gmail.com,https://github.com/jpowell
+Billy Catherall,billy@blueleaf.com,https://github.com/bcatherall
+Jeff Olson,olson.jeffery@gmail.com,https://github.com/olsonjeffery
+Charles Maresh,charles.maresh@stitchfix.com,https://github.com/zorab47
+Caleb Brown,caleb.brown@tecovas.com,https://github.com/kayluhb
+Bill Doughty,github@wdoughty.net,https://github.com/shock
+Matt Rudder,matt@mattrudder.com,https://github.com/mattrudder
+Chuck Thier,cthier@gmail.com,https://github.com/creiht
+Nathan Hessler,xmilestegx@gmail.com,https://github.com/nhessler
+Rocco Stanzione,grasshopper@linuxkungfu.org,https://github.com/trappist
+Squeejee,jim.mulholland@squeejee.com,https://github.com/squeejee
+Brian Dainton,djohnsonjr@gmail.com,https://github.com/bdainton
+Aaron Scruggs,aaron@scruggsalot.com,https://github.com/ascruggs
+"Andrew ""Tuna"" Williamson",tuna@supertunaman.com,https://github.com/supertunaman
+Andy Cooper,integgroll@gmail.com,https://github.com/integgroll
+Chap Ambrose,chapambrose@gmail.com,https://github.com/chap
+Mark Morga,markmorga@gmail.com,https://github.com/mmorga
+Eric Stewart,eric.stewart@impactivesystems.com,https://github.com/ericstewart
+Norman Richards,orb@nostacktrace.com,https://github.com/orb
+Bryan Ray,bryan@bryanray.net,https://github.com/bryansray
+Christopher J. Bottaro,cjbottaro@alumni.cs.utexas.edu,https://github.com/cjbottaro
+B.J. Allen,bjallen@users.noreply.github.com,https://github.com/bjallen
+Paco Gómez,contact@pacogomez.com,https://github.com/pacogomez
+Evan Alter,mcrosson_github@kemonine.info,https://github.com/hadees
+Bradley Joyce,bjoyce@velocis.us,https://github.com/polomasta
+Hendrik Volkmer,hvolkmer@gmail.com,https://github.com/hvolkmer
+Michael Bulat,mbulat@crazydogsoftware.com,https://github.com/mbulat
+Jason Marcell,jasonmarcell@gmail.com,https://github.com/jasmarc
+Vanson Samuel,37637+binq@users.noreply.github.com,https://github.com/binq
+Brad Clawsie,brad@b7j0c.org,https://github.com/bradclawsie
+Ron Green,rgreenjr@gmail.com,https://github.com/rgreenjr
+Wayne Walker,wwalker@bybent.com,https://github.com/wwalker
+Steve Odom,steve.odom@gmail.com,https://github.com/steveodom
+Larry Archer,larcher@spoon.cx,https://github.com/larcher
+Brandon Beck,bmbeck@gmail.com,https://github.com/bbeck
+Mike Metzger,mike@flexiblecreations.com,https://github.com/mmetzger
+Christian Eager,ceager@gmail.com,https://github.com/eager
+David Budworth,dbudworth@gmail.com,https://github.com/dbudworth
+Jay B Payne,letterj@gmail.com,https://github.com/letterj
+Derek Lane,david@koontz.name,https://github.com/quikdraw2700
+Rob Mack,rob@robmack.com,https://github.com/robmack
+Sam Griffith Jr,harvie.griffith@austincc.edu,https://github.com/staypufd
+Steve Whittaker,swhitt@gmail.com,https://github.com/swhitt
+Chad Dollins,chad.dollins@gmail.com,https://github.com/cdollins
+Eoghan O'Brien,eoghan@eoghanobrien.com,https://github.com/eoghanobrien
+Erik Person,erik@thaterikperson.com,https://github.com/thaterikperson
+Kevin Mooney,kmooney@gmail.com,https://github.com/kmooney
+Luke Wendling,luke@lukewendling.com,https://github.com/lukewendling
+Brandon Harris,brandon@brandon-harris.com,https://github.com/bbwharris
+Mike Mayo,gotmayonase@gmail.com,https://github.com/gotmayonase
+Michael Schout,schoutm@gmail.com,https://github.com/mschout
+Matthew Swain,matt.swain@peopleadmin.com,https://github.com/mswain
+Nels Nelson,nels@nelsnelson.org,https://github.com/nelsnelson
+Steven Westmoreland,steven.westmoreland@gmail.com,https://github.com/swestmoreland
+Nicholas Cancelliere,ncancelliere@gmail.com,https://github.com/ncancelliere
+Mario Peixoto,mario.peixoto@gmail.com,https://github.com/mariopeixoto
+João Prado Maia,jpm@ipanemalabs.com,https://github.com/jpm
+Michael Smith,mike@sticknet.net,https://github.com/msmith
+Dirk Elmendorf,dirk@economysizegeek.com,https://github.com/economysizegeek
+Shane Zatezalo,shane@lottadot.com,https://github.com/lottadot
+Rich Vazquez,rich.vazquez@gmail.com,https://github.com/drapetomaniac
+Bill Eisenhauer,bill@billeisenhauer.com,https://github.com/billeisenhauer
+Jim Mulholland,jim@squeejee.com,https://github.com/mully
+Aaron Montana,aaronmontana@gmail.com,https://github.com/aaroninaustin
+Nick Kezhaya,nick@whitepaperclip.com,https://github.com/nkezhaya
+Terry Schmidt,terry.m.schmidt@gmail.com,https://github.com/tschmidt
+Eric Hutzelman,ehutzelman@gmail.com,https://github.com/ehutzelman
+Brandon Niemczyk,brandon.niemczyk@hp.com,https://github.com/bniemczyk
+Mike D,turlockmike@users.noreply.github.com,https://github.com/turlockmike
+Brian Browning,bwbrowning@gmail.com,https://github.com/browning
+JC,john.critz@gmail.com,https://github.com/critzjm
+Toyin Akinmusuru,mrosprey@gmail.com,https://github.com/mrosprey
+dave elkins,dave@elkinsware.com,https://github.com/elkinsware
+Morgan Nelson,mnelson@steele-forge.com,https://github.com/korishev
+Thom Simmons,mickeyandthom@gmail.com,https://github.com/thhooommmm
+Christian Beedgen,raychaser@gmail.com,https://github.com/raychaser
+Jayson Vaughn,vaughn.jayson@gmail.com,https://github.com/thedonvaughn
+Adam Mikeal,adam@mikeal.org,https://github.com/amikeal
+Eric Wallace,eric@ecrosstexas.com,https://github.com/ecrosstexas
+Ajit D'Sa,ajitdsa@gmail.com,https://github.com/ajitdsa
+J.P. Hamilton,instantjp@gmail.com,https://github.com/jphamilton
+Evan Sagge,evansagge@gmail.com,https://github.com/evansagge
+Joshua Baer,josh@quityourjob.com,https://github.com/joshuabaer
+Zach Baker,zach@zachbaker.com,https://github.com/zach
+Allen Hurst,allenhurst@gmail.com,https://github.com/akhurst
+Devin Naquin,github@naqu.in,https://github.com/devin
+Rodrigo DeJuana,rdejuana@gmail.com,https://github.com/rdejuana
+Kevin Lloyd,kevin@kevinlloyd.net,https://github.com/lloydkevin
+Alexander Panko,me@panki.ru,https://github.com/panki
+Josh Kerr,joshkerr@gmail.com,https://github.com/joshkerr
+Josh Taylor,29884+joshtaylor@users.noreply.github.com,https://github.com/joshtaylor
+Steve Gibson,14411+sg@users.noreply.github.com,https://github.com/sg
+Cynthia Sadler,spicasax@users.noreply.github.com,https://github.com/spicasax
+Mike Vincent,mike@humiliated.dev,https://github.com/shame
+Shane Sherman,shane.sherman@gmail.com,https://github.com/ssherman
+Eric Mason,eric@equisolve.com,https://github.com/ericmason
+Don Cruse,doncruse@gmail.com,https://github.com/doncruse
+Kiyu Gabriel,noreply@anthropic.com,https://github.com/qzg
+Jackson Blacklock,jhblacklock@gmail.com,https://github.com/jhblacklock
+stm,stm555@hotmail.com,https://github.com/stm555
+Doug Johnson,doug@asknice.com,https://github.com/dugjohnson
+Geoff Hom,geoff.hom@gmail.com,https://github.com/geoff-hom-gmail-com
+Paul Day,paulrday@gmail.com,https://github.com/paulrday
+Jeff Jolma,jjolma@gmail.com,https://github.com/jjolma
+Tim Barkow,tim@thinkcorps.com,https://github.com/robotloveskitten
+Bobby R. Ward,bobbyrward@gmail.com,https://github.com/bobbyrward
+Josh Kieschnick,jjkiesch@gmail.com,https://github.com/jjkiesch
+Joshua SS Miller,joshua.miller@fitsnips.net,https://github.com/fitsnips
+,cjaysanders@gmail.com,https://github.com/cjsanders
+Jorge Miramontes,georgemiramontes@gmail.com,https://github.com/jamiramontez
+Michael Simmons,msimmons@qualaroo.com,https://github.com/radiantnode
+Stephen Zabel,sjzabel@gmail.com,https://github.com/sjzabel
+Rob Sayers,rsayers@robsayers.com,https://github.com/rsayers
+Andy Mullins,info@andrewmullins.net,https://github.com/amullins
+Elfred Pagan,elfredpagan@liquid.local,https://github.com/elfredpagan
+Blake Elshire,blake.elshire@gmail.com,https://github.com/belshire
+Jeremy Kleindl,jkleindl@gmail.com,https://github.com/inkdeep
+Ben Mishkin,bmishkin@mac.com,https://github.com/bmishkin
+Paul Grotevant,gravelpot@gmail.com,https://github.com/gravelpot
+Jonathan Towell,jrtowell@gmail.com,https://github.com/jrtowell
+Eric Campbell,ericcampbell59@gmail.com,https://github.com/ericc59
+Chris Grant,cgrant@interhive.net,https://github.com/interhive
+Mark Stephan,markestephan@gmail.com,https://github.com/mstephan
+Alan Baird,abaird@bairdsnet.net,https://github.com/abaird
+Erik Summerfield,erik@e2thex.org,https://github.com/e2thex
+Mike Binder,InnerSpark@users.noreply.github.com,https://github.com/InnerSpark
+Seth Chandler,sethbc@sethbc.org,https://github.com/sethbc
+,ksunair@yahoo.com,https://github.com/ksunair
+Don Walker,don@walkertexascoder.com,https://github.com/walkertexascoder
+Matthew Schwartz,matt@matthewschwartz.me,https://github.com/mjschwartz
+Greg Merrill,gmerrill@onenetwork.com,https://github.com/greghmerrill
+Endi S. Dewata,edewata@redhat.com,https://github.com/identityxx
+Alexandar I. Tzanov,atzanovdev@gmail.com,https://github.com/thetitan
+Chris Greenough,chris@chrisgreenough.com,https://github.com/greeno
+Thai Huynh,thai.t.huynh@gmail.com,https://github.com/thuynh
+Micah Nolte,holler@micahnolte.com,https://github.com/moresheth
+Jake Good,jake@wherever.com,https://github.com/mrgood
+Colby Blaisdell,ccblaisdell@gmail.com,https://github.com/ccblaisdell
+"Mike ""Fuzzy"" Partin",fuzzy@thwap.org,https://github.com/3hci
+Fan Jiang,jiangfan0904@hotmail.com,https://github.com/fanjiang9
+Ryan Winograd,ryan@thewinograds.com,https://github.com/rylwin
+Theo Mills,theo@gutsbolts.com,https://github.com/gutsbolts
+Trevor Wermund,twermund@gmail.com,https://github.com/twirm
+Phil Barnhart,pbarnhart@gmail.com,https://github.com/pbarnhart
+Joe Coder,joe@joecoder.org,https://github.com/joecoder
+,dwalker@visayaninc.com,https://github.com/dwalker
+Steve Rogers,srogers1@gmail.com,https://github.com/srogers
+Mark Jardine,mark.jardine@gmail.com,https://github.com/radiantm3
+Benjamin Bradley,benjamin@wegeekout.com,https://github.com/benjaminbradley
+Danny Hotea,dannyhotea@gmail.com,https://github.com/aedeagroup
+Harold Daniel,harold.m.daniel@gmail.com,https://github.com/hdaniel
+Coder (moved to @coder),contact@coder.com,https://github.com/cdr
+Brian Stokes,bsstokes@gmail.com,https://github.com/bsstokes
+Jeremy Falcon,jeremy.falcon@travelctm.com,https://github.com/jfalcon
+Austin Mills,amills@numerex.com,https://github.com/amills
+Esona Fomuso,efomuso@visaops.net,https://github.com/esofomuso
+Barry Cox,barry.cox@gmail.com,https://github.com/rubyminer
+Philipe Casarotte,philipe@casarotte.com,https://github.com/philipecasarotte
+,info@downtowncartel.com,https://github.com/downtowncartel
+GunnyB,gd.babaria@gmail.com,https://github.com/Gunny
+David Bluestein II,dbii@interaction.net,https://github.com/dbii
+Larry E. Lutz,LarryTX@outlook.com,https://github.com/larry-tx
+Robert Simmons,robert@simmons.org,https://github.com/wyscan
+Colin K,softwaredeveloper@gmail.com,https://github.com/knodi
+Matt Griffin,me@mattgriffin.com,https://github.com/mattgriffin
+Andrew Kreiling,andy@kidzui.com,https://github.com/andy-kidzui
+Rob Grady,rob@robgrady.com,https://github.com/robgrady
+Jason Cartwright,jason@ensightenterprises.com,https://github.com/jcartwright
+Colin Fletcher,cfletcher1856@gmail.com,https://github.com/cfletcher1856
+Jay Mendoza,jzpmendoza@gmail.com,https://github.com/jaymendoza
+Randy Bradshaw,randy.bradshaw@gmail.com,https://github.com/tkwny
+Benjamin Booth,gbstockdale@gmail.com,https://github.com/benjaminbooth
+Geoff Hewett,geoff@holdenbrand.com,https://github.com/goff
+Jeremy Boyd,jboyd@infinicastonline.com,https://github.com/jermaustin
+Scott Diedrick,swalterd@gmail.com,https://github.com/swalterd
+Steve Strutt,steve@sjstrutt.com,https://github.com/sjs
+Nathan Price,nathan.price@gmail.com,https://github.com/GadgetNate
+jgervin,jason_newport@hotmail.com,https://github.com/jgervin
+Brian Warren,brian.scott.warren@gmail.com,https://github.com/democritus
+Ken Hanson,ken@markupninjas.com,https://github.com/ken-zz
+John Carney,eviljohn@gmail.com,https://github.com/EvilJohn
+Bob Klosinski,fluxin@gmail.com,https://github.com/fluxin
+Steven Behnke,steven_behnke@me.com,https://github.com/sbehnke
+Roopa Ranganathan,roopashri@ti.com,https://github.com/roopar
+Nikhil Daftary,nik@moodfish.com,https://github.com/Turn2Live
+Austin On Rails,cecy.correa@returnpath.com,https://github.com/austinonrails
+Timothy Dinkins,tim@timdinkins.com,https://github.com/timjdinkins
+Stan Tigrett,stan@tigrett.net,https://github.com/stigrett
+Eun-Gyu Kim,eungyu.kim@gmail.com,https://github.com/eungyu
+Neal Lober,neal.lober@gmail.com,https://github.com/neallober
+David Vineyard,dvineyard@instreamsystems.com,https://github.com/dvineyard
+Shaun Gish,shaun@figarointeractive.com,https://github.com/gishdog
+Darren Cornwell,darren@irregularactivity.co.uk,https://github.com/darrencornwell
+Robert H,panthar@gmail.com,https://github.com/panthar
+Ben Rose,doranxenos@gmail.com,https://github.com/doranxenos
+Justin Bowers,meow@flamingkitty.com,https://github.com/aquaphase
+Richard Silvers,rjsilvers@gmail.com,https://github.com/rjsilvers
+Tipton Cole,tipton@tipton.com,https://github.com/tipton
+Robert Walker,walker.robert@gmail.com,https://github.com/bwah
+Ruby Fort Worth,p@rdln.net,https://github.com/rubyftw
+Trevor Lovett,trevor.lovett@gmail.com,https://github.com/tlovett
+"Click Here Labs, Inc.",fernandoaleman@mac.com,https://github.com/clickhere
+Mark Reynolds,mark@markpreynolds.com,https://github.com/mmond
+Rajveer Singh Rathore,rajveerr@gmail.com,https://github.com/rajveerr
+mstormo,marius@bluware.com,https://github.com/mstormo
+Dev Jyoti Behera,devj1988@gmail.com,https://github.com/devj1988
+Ward Asbridge,ward@wieck.com,https://github.com/ward-xx
+Infochimps.com,dhruv@ph.utexas.edu,https://github.com/infochimps
+Sachin Chaudhari,sachin.chaudhari@valtech.com,https://github.com/sachinch
+TRNSFR,beamer@trnsfr.com,https://github.com/trnsfr
+Robert Sosinski,email@robertsosinski.com,https://github.com/robertsosinski
+Adam French,adam.french@cpanel.net,https://github.com/adam
+Jason W. Miller,j@jwm.dev,https://github.com/jasonwmiller
+Matt Howlett,matt@mhowlett.com,https://github.com/mhowlett
+John D. Tornow,john@johntornow.com,https://github.com/jdtornow
+Eric Clemmons,eric@smarterspam.com,https://github.com/ericclemmons
+Vitalik Gordon,v-gordon@avride.ai,https://github.com/xpl
+Matt Croydon,mcroydon@gmail.com,https://github.com/mcroydon
+Lawrence Lin,deduce@gmail.com,https://github.com/linyiru
+Greg Pierce,greg@agiletortoise.com,https://github.com/agiletortoise
+Dr. Brandon Wiley,brandon@operatorfoundation.org,https://github.com/blanu
+Andrew Bennett,potatosaladx@gmail.com,https://github.com/potatosalad
+Bradford Fults,bfults@gmail.com,https://github.com/h3h
+Trevor Livingston,tlivings@gmail.com,https://github.com/tlivings
+Derrick J. Wippler,thrawn01@gmail.com,https://github.com/thrawn01
+Glenn Vanderburg,glv@vanderburg.org,https://github.com/glv
+Don Thorp,don@donthorp.net,https://github.com/donthorp
+Pedro H S Teixeira,pedro.t@gmail.com,https://github.com/pedroteixeira
+Tom Shaw,tomshaw@users.noreply.github.com,https://github.com/tomshaw
+Colin Drake,cfdrake@users.noreply.github.com,https://github.com/cfdrake
+Mani Tadayon,bowsersenior@gmail.com,https://github.com/bowsersenior
+Brian Wigginton,brianwigginton@gmail.com,https://github.com/bwiggs
+Jeff Carouth,jcarouth@gmail.com,https://github.com/jcarouth
+Brian Cline,brian.cline@gmail.com,https://github.com/briancline
+James Hughes,james@virtualjames.com,https://github.com/jamezilla
+Lew Cirne,lewiscirne@mac.com,https://github.com/cirne
+Ben Hamill,ben@benhamill.com,https://github.com/benhamill
+Kaleb Fulgham,kaleb@kalebdf.com,https://github.com/kalebdf
+David Kowis,david@kow.is,https://github.com/dkowis
+Burin Asavesna,burinasavesna@gmail.com,https://github.com/burin
+Marcus Irven,marcus@marcusirven.com,https://github.com/mirven
+Ben Ackles,benackles@gmail.com,https://github.com/benackles
+Ryan Gibbons,rtgibbons23@gmail.com,https://github.com/rtgibbons
+Dylan Markow,dylan@dylanmarkow.com,https://github.com/dmarkow
+Craig Smitham,craigsmitham@acm.org,https://github.com/craigsmitham
+Dan Quellhorst,dan@quellhorst.com,https://github.com/quellhorst
+Adrian Alonso,aalonso00@gmail.com,https://github.com/aalonso
+Jesse Crockett,crockett.jesse@gmail.com,https://github.com/listenlight
+Paul Woods,mr.paul.woods@gmail.com,https://github.com/paulwoods
+Gerardo Gómez,gerardo.santana@gmail.com,https://github.com/santana
+Robert Boone,robert@Roberts-MacBook-Pro.local,https://github.com/rlb3
+Greg Hewett,calm.key4271@twoutah.com,https://github.com/glhewett
+Dustin Schneider,dustinbs@gmail.com,https://github.com/dschn
+Michael Bernstein,mnbernstein@gmail.com,https://github.com/michaelbernstein
+Mark Cotton,tifosigoon@gmail.com,https://github.com/mcotton
+Kevin Triplett,kt@kevintriplett.com,https://github.com/KevinTriplett
+Silona,Silona@silona.com,https://github.com/Silona
+Billy Forester,william.forester@gmail.com,https://github.com/willfore
+Chris Johnson,chris@kindkid.com,https://github.com/kindkid
+Michal Wallace,michal.wallace@gmail.com,https://github.com/sabren
+adam krawiec,adamkrawiec@gmail.com,https://github.com/bbttxu
+Paul Vudmaska,paul.vudmaska@gmail.com,https://github.com/voodoo
+Ryan Boykin,ryan@theyapps.com,https://github.com/theyapps
+Shane Thacker,shane@steadymade.com,https://github.com/shanebo
+Bernardo Pacheco,berna.ipach@gmail.com,https://github.com/bernardop
+Nathan Clark,michal.janeczek@ymail.com,https://github.com/nathanclark
+David Hainlin,dhainlin@gmail.com,https://github.com/dhainlin
+Philip Jagielski,pj@philipjagielski.com,https://github.com/positron
+Jake Dempsey,angelo0000@gmail.com,https://github.com/angelo0000
+Andrew Lee Donelson,nlaakald@gmail.com,https://github.com/AndrewDonelson
+R2robot,arturoc@gmail.com,https://github.com/R2robot
+Scott Foster,scott@singlepeel.com,https://github.com/scottfoster
+jay thompson,jaytho@gmail.com,https://github.com/jaytho
+Rylan Barnes,rylan@barn.es,https://github.com/schmylan
+Jeff Owens,dmin7b5@gmail.com,https://github.com/dmin7b5
+Matthew Berg,matthewlberg@gmail.com,https://github.com/mattberg
+Gumaro Melendez,cloudernew@gmail.com,https://github.com/clouder
+Chason Deshotel,me@chasondeshotel.com,https://github.com/ChasonDeshotel
+Roj Niyogi,security@nodemin.local,https://github.com/niyogi
+Jeremy Bensley,jeremy@bensley.us,https://github.com/jbensley
+Scott Thompson,sthompson@us.ibm.com,https://github.com/easco
+Riley W.,riley.wills@gmail.com,https://github.com/rileyw
+Himansu Desai,himansudesai@gmail.com,https://github.com/himansudesai
+Cody Haines,chaines51@gmail.com,https://github.com/chaines
+Roy Wright,roy@wright.org,https://github.com/royw
+Bob Varghese,bob.varghese@gmail.com,https://github.com/bobvarghese
+David Nehme,nehme@abremod.com,https://github.com/abremod
+Joshua Zader,joshua@atlaswebdev.com,https://github.com/jzader
+Bill Shirley,bshirley@shirl.com,https://github.com/bshirley
+A. Lester Buck III,github-reg@nbolt.com,https://github.com/buck
+Andy Michaels,lego@therac25.net,https://github.com/lego-zz
+Christopher Louis Hauboldt,chris@hauboldt.us,https://github.com/chrisboy333
+Felix Dominguez,felix@sanityuntethered.com,https://github.com/dacat
+Shawn Elliott,gshawn.elliott@gmail.com,https://github.com/selliott
+Drew Decker,drewrockshard@gmail.com,https://github.com/drewrockshard
+Stephen Gutknecht,stephen@ipcoast.com,https://github.com/stephenipc
+Chris N,morphius.faydal@gmail.com,https://github.com/MorphiusFaydal
+Jason White,jasonwhitestl@gmail.com,https://github.com/silliemunkie
+Pete DeLine,petedeline@gmail.com,https://github.com/pdeline
+Srikanth Remani,srikanth.remani@gmail.com,https://github.com/sremani
+Nick French,nickjfrench@gmail.com,https://github.com/nfrench
+Rob Jones,sugarfreejones@gmail.com,https://github.com/sugarfreejones
+David Shin,dshin@pimpsmart.com,https://github.com/dshin
+,jesse@comm-unity.net,https://github.com/traynham
+Electronic Vehicle Integrated Electronic Systems,info@evie-systems.com,https://github.com/eviesystems
+Adib Motiwala,adib.motiwala@valtech.com,https://github.com/adibm
+drgeb,github@drgeb.com,https://github.com/drgeb
+jeffm,jeff@blackwing.org,https://github.com/jeffmcc
+Sheila Fenelon,sheila@shefen.com,https://github.com/sfenelon
+Phillip Gore,phillipagore@me.com,https://github.com/phillipgore
+Samuel Hughes,samuel.jennings@gmail.com,https://github.com/shughes
+Ben Sykes,ben.sykes@gmail.com,https://github.com/bensykes
+Shannon,swright300@gmail.com,https://github.com/smwlinux
+Zac Pierce,zacpierce@gmail.com,https://github.com/zac0351
+George,621+george@users.noreply.github.com,https://github.com/george
+Jack Prophesy,mighty@mighty.stream,https://github.com/jackprophesy
+Brian C,brian.m.carlson@gmail.com,https://github.com/brianc
+Russell Smith,ukd1@users.noreply.github.com,https://github.com/ukd1
+Kevin Wade,kevinrwade@gmail.com,https://github.com/mrwade
+Caleb Mingle,caleb@mingle.cm,https://github.com/minglecm
+Dustin Bachrach,ahdustin@gmail.com,https://github.com/dbachrach
+Thomas Upton,tom@wizehire.com,https://github.com/tupton
+Todd Stout,todd.tstout@gmail.com,https://github.com/tstout
+Tim Herd,rz@eqdw.net,https://github.com/eqdw
+Jon-Paul Wheatley,jonwheatley@gmail.com,https://github.com/jonwheatley
+Chris Mason,chris@chaione.com,https://github.com/cmason
+Jesse Printz,jesse@jprintz.net,https://github.com/jonypawks
+John Hoover,defvayne23@gmail.com,https://github.com/defvayne23
+Mark Spangler,mspangler@gmail.com,https://github.com/mspangler
+Zachary Danger,zach@zaxgood.software,https://github.com/zacharydanger
+Chad Hutchins,hutchins.chad@gmail.com,https://github.com/chadhutchins
+George Whitaker,mikewhit@gmail.com,https://github.com/georgeismike
+TK,tawheed@gmail.com,https://github.com/tawheed
+Julian,julzmon@gmail.com,https://github.com/julzmon
+Paul Williams,paulwilliams0@gmail.com,https://github.com/cyclopslabs
+Derek Morrison,me@derek-morrison.com,https://github.com/dmorrison
+Trey Philips,treyjp@gmail.com,https://github.com/treyp
+Paul Strong,paul@thestrongfamily.org,https://github.com/lapluviosilla
+SoftLayer,sldndeveloperrelations@wwpdl.vnet.ibm.com,https://github.com/softlayer
+Bill Robertson,theman@fdrsucks.com,https://github.com/billrob
+Brent LaVelle,brentlavelle@yahoo.com,https://github.com/brentlavelle
+Max Clark,max@maxclark.com,https://github.com/maxclark
+Andy Warner,warner.andy@gmail.com,https://github.com/warnerandy
+Jon Bolden,jonboldendesign@gmail.com,https://github.com/jonbolden
+Jonathan Duty,jonathan.duty@gmail.com,https://github.com/jonathanduty
+Jacob Morse,hello@jacobmorse.com,https://github.com/jacobmorse
+Ben Hunsaker,ben.hunsaker@me.com,https://github.com/benhunsaker
+Kyle Tuffentsamer,ktuffentsamer@gmail.com,https://github.com/Reth11
+Chris Farmer,chris.farmer@maxpoint.com,https://github.com/farmerchris
+Chandra Seetharaman,sekharan@us.ibm.com,https://github.com/chandra2
+Mohit Tiwari,mohit@Mohits-Air.attlocal.net,https://github.com/tiwari
+dataFundamentals,pete.carapetyan@gmail.com,https://github.com/datafundamentals
+Lyle Pratt,lylepratt@gmail.com,https://github.com/lylepratt
+Will Willis,will.willis@gmail.com,https://github.com/willwillis
+Patrick Deuley,patrick@deuley.ltd,https://github.com/mocha
+Will Nielsen,will@nielsendigital.com,https://github.com/wjn
+Vijayaraghavan Amirisetty,amirisetty.vijayaraghavan@gmail.com,https://github.com/amirivija
+Mike DelGrosso,mikedelgrosso@gmail.com,https://github.com/mikedelgrosso
+Kirk Brown,hueyplong@gmail.com,https://github.com/hueyplong
+Mogra,c.wrinn@nixgeex.org,https://github.com/lordmogra
+Matthew Andrews,mqatrombone@outlook.com,https://github.com/mqatrombone
+James Wilson,githubpub@meswilson.com,https://github.com/omgmovieslol
+develop4charity,info@develop4charity.om,https://github.com/develop4charity
+Brian Ng,bng412@gmail.com,https://github.com/existentialism
+0xd34df00d,0xd34df00d@gmail.com,https://github.com/0xd34df00d
+David Davis,david.davis@gmail.com,https://github.com/xantus
+Tony Guntharp,fusion94@gmail.com,https://github.com/fusion94
+Winston Fassett,winston.fassett@gmail.com,https://github.com/WinstonFassett
+Alex Coomans,alex@alexcoomans.com,https://github.com/drcapulet
+Marcos Vanetta,marcosvanetta@yahoo.com,https://github.com/malev
+Vid Luther,vid@luther.io,https://github.com/vidluther
+Gleb Pomykalov,glebpom@gmail.com,https://github.com/glebpom
+Doug Daniels,daniels.douglas@gmail.com,https://github.com/dougnukem
+Spencer Rinehart,anubis@overthemonkey.com,https://github.com/nubs
+Ian McCracken,ian.mccracken@gmail.com,https://github.com/iancmcc
+Jared,jmtame@gmail.com,https://github.com/jmtame
+Matt Tyson,matthewcarltyson@gmail.com,https://github.com/MTyson
+Michael Barton,mike@weirdlooking.com,https://github.com/redbo
+Sean Brant,brant.sean@gmail.com,https://github.com/seanbrant
+Ammon Lauritzen,allaryin@gmail.com,https://github.com/allaryin
+Shaun Smith,disgone@disgone.com,https://github.com/disgone
+,weiyin@users.noreply.github.com,https://github.com/weiyin
+Noah Seger,nosamanuel@gmail.com,https://github.com/nosamanuel
+Scott Bauer,bauer.mail@gmail.com,https://github.com/Bauerpauer
+Louis Marascio,marascio@gmail.com,https://github.com/marascio
+Christopher Motl,cmotl@cmotl.com,https://github.com/cmotl
+Jacob Childress,jacobc@gmail.com,https://github.com/braveulysses
+Zach A. Thomas,zach@aeroplanesoftware.com,https://github.com/zathomas
+Greg Graham,greg@grahamtx.net,https://github.com/greggraham
+John Harris,jkharris@mindspring.com,https://github.com/jkharris
+Joe Payton,joe@josephpayton.com,https://github.com/mrjoepayton
+Doug Reese,doug@reesesystems.com,https://github.com/dougreese
+Matt Gleeson,matt@gleeson.org,https://github.com/mattgleeson
+Jacob Reiff,bmharris@gmail.com,https://github.com/jaacob
+Ravi Varanasi,ravi116@gmail.com,https://github.com/RaviVaranasi
+Yury Pats,yu.pats@gmail.com,https://github.com/yuripats
+Edwin Wise,edwin@simreal.com,https://github.com/EdwinWiseOne
+Richard Cowin,richard.cowin@gmail.com,https://github.com/rcowin
+Joonas Vihavainen,jvihavainen@strategystar.net,https://github.com/jvihavainen
+Jon Hinson,hinson.jonathan@gmail.com,https://github.com/jonhinson
+Greg Norz,greg+github@norz.net,https://github.com/gregnorz
+Scott Williams,sallenwilliams@gmail.com,https://github.com/sallenwilliams
+"Eric ""Trey"" Perkins",51243+treyperkins@users.noreply.github.com,https://github.com/treyperkins
+Mandi Leman,meesha123@hotmail.com,https://github.com/blellow
+dib,info@dibcreative.com,https://github.com/dib
+Ted X Toth,txtoth@gmail.com,https://github.com/tedx
+Anil Chukkapalli,anilchukkapalli@gmail.com,https://github.com/anilchukkapalli
+Richard Bolkey,rbolkey@gmail.com,https://github.com/rbolkey
+David Pennington,david@xeoncross.com,https://github.com/xeoncross
+Greg Heartsfield,scsibug@imap.cc,https://github.com/scsibug
+Edward Amsden,edward@blackriversoft.com,https://github.com/eamsden
+David Petersen,david@petersendidit.com,https://github.com/petersendidit
+Barry Abrahamson,barry@yourang.org,https://github.com/bazza
+Topher Fangio,topher@profoundry.us,https://github.com/topherfangio
+Ojas,ojas@ojas.net,https://github.com/ojas
+Monty Kosma,mkosma@gmail.com,https://github.com/mkosma
+Ryan Thames,ryanthames@gmail.com,https://github.com/ryanthames
+cldotme,chris@chrisleblanc.me,https://github.com/BlendedByChris
+Thanateros,thanateros@users.noreply.github.com,https://github.com/thanateros
+Lawrence,lawrencelittleton@gmail.com,https://github.com/lawrencelittleton
+Sam Burns,sabunome@gmail.com,https://github.com/sabunome
+Danny Tamez,zematynnad@gmail.com,https://github.com/dtamez
+Mike Patton,mike@mikepatton.net,https://github.com/nereus
+Rodger Cooley,rocooley@utmb.edu,https://github.com/DelDotB
+Richard Schneeman,richard.schneeman+no-recruiters@gmail.com,https://github.com/schneems
+Chris Aniszczyk,caniszczyk@gmail.com,https://github.com/caniszczyk
+Ben Scheirman,ben@scheirman.com,https://github.com/subdigital
+Dru Sellers,dru@drusellers.com,https://github.com/drusellers
+Chris Missal,chris.missal@gmail.com,https://github.com/ChrisMissal
+Michael L Perry,michael@qedcode.com,https://github.com/michaellperry
+Carl Brown,carl.brown1@ibm.com,https://github.com/carlbrown
+Ryan Rauh,rauh.ryan@gmail.com,https://github.com/rauhryan
+John Napiorkowski,jjnapiork@cpan.org,https://github.com/jjn1056
+Eric Marden,eric.marden@gmail.com,https://github.com/xentek
+Naveen Garg,naveen.garg@gmail.com,https://github.com/tinku99
+Vic Cherubini,vcherubini@gmail.com,https://github.com/viccherubini
+Lewis Zhang,lewiszhang@gmail.com,https://github.com/lzhang
+Simon Williams,brad@instructure.com,https://github.com/simonista
+J.R. Garcia,jr@garciaole.com,https://github.com/jrgarcia
+Mike Cravey,mike@craveytrain.com,https://github.com/craveytrain
+Kelly Fox,kelly@bumfuddled.com,https://github.com/kfox
+Ben Vogelzang,ben.vogelzang@veracross.com,https://github.com/bvogelzang
+Mark Simoneau,marksim@gmail.com,https://github.com/marksim
+Suraj Khakurel,suraj@khakurel.com,https://github.com/khakurel
+Sam Wilson,sam@iamnotsam.com,https://github.com/storypixel
+Pramukta Rao,pramukta.kumar@gmail.com,https://github.com/pramukta
+Jack Miller,jack@codezen.org,https://github.com/themoken
+Joseph Spurr,joespurr@gmail.com,https://github.com/jspurr
+Rob Eanes,github@robsinbox.com,https://github.com/rhec
+Chad Glendenin,ccg@pybrew.com,https://github.com/ccg
+Dan Spinosa,spinosa@gmail.com,https://github.com/spinosa
+Chris Habgood,chabgood@gmail.com,https://github.com/chabgood
+Chris Pelatari,chris@bluefenix.net,https://github.com/ChrisPelatari
+Mike Kent,mikerkent@gmail.com,https://github.com/mikerkent
+Craig W. Blake,craigwblake@gmail.com,https://github.com/craigwblake
+Dave Carlton,davec@mac.com,https://github.com/tgunr
+Kevin Kelley,github@wyldwolf.org,https://github.com/kkelley
+Joel Escobar,joel.escobar@refinery29.com,https://github.com/joeles
+Hudson Akridge,Hudson.Akridge@gmail.com,https://github.com/HudsonAkridge
+Frank Coyle,coyle@smu.edu,https://github.com/frankc
+Justin Sanders,justin@gigq.com,https://github.com/gigq
+Kyle Prier,kyle.prier@gmail.com,https://github.com/kyleprier
+Clint Bishop,clint@bishkapoplan.com,https://github.com/norobotdiving
+"Bryan Hanks, PMP CSP-SM CSPO",bryan@master-developer.com,https://github.com/BryanH
+Don Harper,duck@duckland.org,https://github.com/duckunix
+Gabe Odess,gabeodess@gmail.com,https://github.com/gabeodess
+Neal Brown,nealbrown@gmail.com,https://github.com/nealbrown
+Gary Clarke,gxclarke@gmail.com,https://github.com/gxclarke
+Aaron Garcia,hello@aarongarcia.com,https://github.com/aarongarcia
+Jonathan Zimmerman,jonzim@hotmail.com,https://github.com/jonzim
+Ron Guarisco,ron.guarisco@gmail.com,https://github.com/guarisco
+Derek Kurth,dkurth@gmail.com,https://github.com/dkurth
+John Keene,johnk@serviceminder.com,https://github.com/johndkeene
+Dave Katten,dkatten@geoforce.com,https://github.com/dkatten
+Charlie Lindahl,github@cyberchuck.org,https://github.com/cyberchucktx
+Greg Banister,banister@gmail.com,https://github.com/gbanister
+Christopher D. Pearson,ufgeek@gmail.com,https://github.com/chrispearson
+Kevin Fricke,kevin@lonestarmedia.com,https://github.com/kwfricke
+Juan Villa,juanqui@villafam.com,https://github.com/juanqui
+Bill Campbell,git@rustyshed.com,https://github.com/BillyRides
+Prefinery,support@prefinery.com,https://github.com/prefinery
+Timothy Heimsoth,timothy.heimsoth@gmail.com,https://github.com/timothyheimsoth
+Capital Thought,howdy@capitalthought.com,https://github.com/capitalthought
+Mark Anderson,mandersuun@gmail.com,https://github.com/mandersn
+Gripston,alex@gripston.com,https://github.com/gripston
+Ed Page,eopage@gmail.com,https://github.com/epage
+Matt Smith,msmith@msmiths-macbook-pro-17.local,https://github.com/mattorb
+Drew Johnston,drew@johnston.us,https://github.com/drewjoh
+John McKenzie,jmckind@gmail.com,https://github.com/jomkz
+Craig Boucher,crbouch@microsoft.com,https://github.com/craigb
+Julian Calzada,juliancalzada@gmail.com,https://github.com/juliancalzada
+D.H. Clapp,github@donnieclapp.com,https://github.com/dhc02
+Mike Forsberg,bigmike.f@gmail.com,https://github.com/bigmikef
+Brandon Behrens,brandonbehrens@gmail.com,https://github.com/bbehrens
+Christopher Jones,crjones@gmail.com,https://github.com/crjones
+J. Cator,mr.jcator@gmail.com,https://github.com/jcator
+Sandeep SInghal,sandeepsinghal@gmail.com,https://github.com/sandeepsinghal
+Mike South,mike@monolithic.com,https://github.com/mjsouth
+Matt Rogers,codemattr@gmail.com,https://github.com/mattr-
+Nathan Eror,bignate@gmail.com,https://github.com/neror
+Eric Van Hensbergen,ericvh@gmail.com,https://github.com/ericvh
+Sean Hill,seandhi@gmail.com,https://github.com/seanski
+Sean McGary,sean@seanmcgary.com,https://github.com/seanmcgary
+Drew Yeaton,xeeton@gmail.com,https://github.com/drewyeaton
+Carter Cole,carter.cole@gmail.com,https://github.com/neopunisher
+Will Cosgrove,will@cosgrove.email,https://github.com/willcosgrove
+Chris,chris.cantu@procore.com,https://github.com/chriscantu
+Chris Kite,chris@chriskite.com,https://github.com/chriskite
+Travis Petticrew,travis@petticrew.net,https://github.com/tpett
+Walker Hale IV,hale@bcm.edu,https://github.com/walkerh
+Ross Andrews,ross.andrews@gmail.com,https://github.com/randrews
+David Kapp,davidkapp@coshx.com,https://github.com/davekapp
+Jim Bair,james.d.bair@gmail.com,https://github.com/jimbair
+Samir Patel,sameg14@gmail.com,https://github.com/sameg14
+Ryan Campbell,ryan.campbell@gmail.com,https://github.com/recampbell
+Jamie Wagner,hey@nobodyiscertain.com,https://github.com/nobodyiscertain
+Keith Davis,me@laurinkeithdavis.com,https://github.com/laurinkeithdavis
+Pegasus News,brandon.konkle@gmail.com,https://github.com/pegasus
+...Max...,max@motovilov.com,https://github.com/MaxMotovilov
+Rob Grochowicz,robertgrochowicz@gmail.com,https://github.com/rgrochowicz
+Eris Castrogivanni,eris@erisrenee.com,https://github.com/tassels
+Lars Levie,larslevie@gmail.com,https://github.com/larslevie
+joeyparsons,joey.parsonse@gmail.com,https://github.com/joeyparsons
+Tim Poon,mockenoff@yahoo.com,https://github.com/mockenoff
+Collin Klopfenstein,70838+collink@users.noreply.github.com,https://github.com/collink
+Mike ,mikejennings@gmail.com,https://github.com/mikejennings
+David Bennett,david@dbinit.com,https://github.com/dbinit
+Richard Pistole,pistole@rhp.org,https://github.com/pistole
+Daniel Jackson,daniel@thinkhard.net,https://github.com/thinkhard
+Ritchie Cai,ritchiecai@r2labs.org,https://github.com/malloc82
+Leo Grove,leo@ssl.com,https://github.com/codelux
+Perry Smith,pedz@easesoftware.com,https://github.com/pedz
+Justin Foster,fauxstor@gmail.com,https://github.com/fauxstor
+John Heintz,john@gistlabs.com,https://github.com/jheintz
+Cade Ekblad-Frank,cade@e-f.me,https://github.com/cadeef
+Daniel Matranga,dannymatranga@gmail.com,https://github.com/dmatranga
+Miah,miah.petersen@zsuitetech.com,https://github.com/studiotomi
+Roberto Rivera,roberto.rivera@gmail.com,https://github.com/robertoriv
+Vinay Balamuru,balamuru@gmail.com,https://github.com/balamuru
+Josh Dura,jdura@adobe.com,https://github.com/joshdura
+Abhi Rao,abhirao@gmail.com,https://github.com/abhirao
+Ahmed Khalil,a.khalil@braeburnsoft.com,https://github.com/akhalil
+Jason O'Brien,jasonobrien@google.com,https://github.com/jasonobrien
+Chris Rivera,cmr@litl.com,https://github.com/chrismrivera
+Arun Kumar,cdsseo@gmail.com,https://github.com/cdsseo
+Pascal Crausaz,pascal@askpascal.com,https://github.com/pcrausaz
+steve harder,stevenmharder@gmail.com,https://github.com/hardcase
+"New Enough, Ltd.",github@newenough.com,https://github.com/newenough
+Jon Riddle,coder@jdrnetworking.com,https://github.com/jdrnetworking
+Thinkwell,paloc@thinkwell.com,https://github.com/thinkwell
+Jeremy Wilken,gnomation@gnomeontherun.com,https://github.com/gnomeontherun
+Sebastiaan Deckers,sebdeckers83@gmail.com,https://github.com/sebdeckers
+Avi Zurel,avi+github@zurel.dev,https://github.com/KensoDev
+Jared,jared.blalock@gmail.com,https://github.com/molotovbliss
+Joshua Poehls,joshua@zduck.com,https://github.com/jpoehls
+Kien Tran,kientran@gmail.com,https://github.com/kientran
+Andrew Hite,andy@andyhite.com,https://github.com/andyhite
+John Eargle,jeargle@gmail.com,https://github.com/jeargle
+Mason Hale,masonhale@users.noreply.github.com,https://github.com/masonhale
+Chris Pratt,chrisdpratt@gmail.com,https://github.com/chrisdpratt
+Daniel P. Zepeda,duskhacker@zepeda.ws,https://github.com/duskhacker
+Raja Sekhar Konuru,konuru.sekhar@gmail.com,https://github.com/ksekhar
+Gregg Geil,gregg@americanaroots.com,https://github.com/fender21
+Adrian Nye,adriannye@gmail.com,https://github.com/adriannye
+Gerald Patterson,patterson.gerald@gmail.com,https://github.com/overdriven
+Matt Langston,matt@mavrev.com,https://github.com/mattlangston
+Matt Cofer,matt@mattcofer.com,https://github.com/mattcofer
+Major Hayden,major@mhtx.net,https://github.com/major
+Corey Ward,corey@hey.com,https://github.com/coreyward
+Ben Truyman,ben@truyman.com,https://github.com/bentruyman
+Rackerlabs,publicrelations@rackspace.com,https://github.com/rackerlabs
+Brandon Alexander,baalexander@gmail.com,https://github.com/baalexander
+Brandon Kraft,public@brandonkraft.com,https://github.com/kraftbj
+Marius Ducea,marius.ducea@gmail.com,https://github.com/mdxp
+Steve Corona,stevecorona@me.com,https://github.com/stevencorona
+Joshua Flanagan,joshuaflanagan@gmail.com,https://github.com/joshuaflanagan
+Alexis Abril,dev@alexisabril.com,https://github.com/alexisabril
+Garrett W.,gw@garrettw.net,https://github.com/garrettw
+Fred Trotter,cberg@uoregon.edu,https://github.com/ftrotter
+Chris Hallgren,challgren@gmail.com,https://github.com/challgren
+Matt Dietz,matt.dietz@rackspace.com,https://github.com/MattDietz
+Ariel Valentin,arielvalentin@users.noreply.github.com,https://github.com/arielvalentin
+Kelly Redding,kelly@kellyredding.com,https://github.com/kellyredding
+BMC TrueSight Pulse (formerly Boundary),ops@boundary.com,https://github.com/boundary
+Jared Knipp,jared.r.knipp@gmail.com,https://github.com/jknipp
+Brennon Williams,brennonw@gmail.com,https://github.com/BrennonTWilliams
+Warwick Poole,wpoole@gmail.com,https://github.com/warwickp
+Sean Fisher,seanfisher@users.noreply.github.com,https://github.com/seanfisher
+James Ryan,james@theryans.io,https://github.com/JamesRyanATX
+I'm phasing,imphasing@gmail.com,https://github.com/imphasing
+James Gilliland,jgilliland@apqc.org,https://github.com/neclimdul
+Arthur Peters,amp@singingwizard.org,https://github.com/arthurp
+Scott Johnson,scottjohnsoninsf@gmail.com,https://github.com/scottj97
+Ryan Bond,ryan.bond@gmail.com,https://github.com/ryanbond
+biosshadow,biosshadow@biosshadow.com,https://github.com/biosshadow
+Tyler Morgan,digismack@gmail.com,https://github.com/digismack
+David Favor,david@davidfavor.com,https://github.com/davidfavor
+Paul Schorfheide,pschorf2@gmail.com,https://github.com/pschorf
+David Tulig,david.tulig@gmail.com,https://github.com/dtulig
+Galen S. Swint,galen.swint.phd@gmail.com,https://github.com/g24swint
+Dan Bram,dbram32@gmail.com,https://github.com/DBram
+Bryan Silverthorne,bsilverthorne@gmail.com,https://github.com/bsilverthorne
+Mike Stankavich,mike@stankavich.com,https://github.com/mikestankavich
+Shannan,shannan@knockdesign.com,https://github.com/shannan
+Matt Sayler,sayler@thewalrus.org,https://github.com/sayler
+Ronny,ronnyrosabal@gmail.com,https://github.com/dineroking
+Pradeep Gurumath,pradeepgurumath@ti.com,https://github.com/pradeepgurumath
+Ronnie,rtew@gmx.com,https://github.com/rtew
+Jack Lupton,jacklupton@gmail.com,https://github.com/itnomad
+William Hicks,whicks1@gmail.com,https://github.com/whicks1
+Jim Brisson,brisson.jim@gmail.com,https://github.com/jbrisson
+Philip Pool,philpool@philippool.com,https://github.com/philpool
+TeleDrill,info@teledrill.com,https://github.com/teledrill
+Xizeng (Ethan) Mao,xizeng.mao@gmail.com,https://github.com/xmao
+Cameron Taggart,cameron.taggart@gmail.com,https://github.com/ctaggart
+Victor Trac,victor@cloudkite.io,https://github.com/victortrac
+Brian Edwards,brian.mabry.edwards@gmail.com,https://github.com/bedwards
+James Sulak,jsulak@gmail.com,https://github.com/jsulak
+Dariel Dato-on,80038+oddrationale@users.noreply.github.com,https://github.com/oddrationale
+Robert Hailey,git@osndok.com,https://github.com/Osndok
+Collin Redding,collin.redding@hey.com,https://github.com/jcredding
+Daniel Dreier,daniel@ddreier.com,https://github.com/ddreier
+Mariano Wahlmann,dichoso@gmail.com,https://github.com/bluescreen10
+Richard Ogin,rogin@users.noreply.github.com,https://github.com/rogin
+Stephen Oliver,steve@infincia.com,https://github.com/steveatinfincia
+Bill Kunz,github@tigerbears.com,https://github.com/tigerbears
+Helmut Granda,contact@helmutgranda.com,https://github.com/helmutgranda
+Kumaran Balachandran,kumaran@heykumaran.com,https://github.com/heykumaran
+Roger Guess,rogerguess@users.noreply.github.com,https://github.com/rogerguess
+Andrew Gaken,andrew@gaken.name,https://github.com/andygaken
